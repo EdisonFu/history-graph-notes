@@ -4,3 +4,6 @@
 [submodule "history-graph-notes-client"]
 	path = history-graph-notes-client
 	url = https://github.com/EdisonFu/history-graph-notes-client.git
+[submodule "history-graph-notes-data"]
+	path = history-graph-notes-data
+	url = https://github.com/EdisonFu/history-graph-notes-data.git
